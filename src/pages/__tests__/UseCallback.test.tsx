@@ -17,11 +17,20 @@ test('UseCallback page', async () => {
   const articles = getAllByRole('article');
   expect(articles.length).toBe(3);
 
+  // look for titles of art from our mock data `mockRecords.json`
+  expect(
+    getByText(/Topographical View of Unidentified Belgian Town/i)
+  ).toBeInTheDocument();
+
+  expect(getByText(/Lower Rhenish/i)).toBeInTheDocument();
+
+  expect(getByText(/A Hawk/i)).toBeInTheDocument();
+
+  // In our test data the "Lower Rhenish" art object doesn't have an image. Our page should show that
+  expect(getByText(/No image/i)).toBeInTheDocument();
+
   const nextButton = getByText(/Next Page/i);
-
   userEvent.click(nextButton);
-
   const newPageNumber = await findByText('Page: 2');
-
   expect(newPageNumber).toBeInTheDocument();
 });
