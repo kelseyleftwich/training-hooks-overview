@@ -1,0 +1,137 @@
+[
+  {
+    "images": [
+      {
+        "date": "2019-08-30",
+        "copyright": "President and Fellows of Harvard College",
+        "imageid": 502768,
+        "idsid": 476877661,
+        "format": "image/jpeg",
+        "description": null,
+        "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CC 2018 (Macintosh);",
+        "renditionnumber": "771281",
+        "displayorder": 1,
+        "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:771281",
+        "alttext": null,
+        "width": 2550,
+        "publiccaption": null,
+        "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/476877661",
+        "height": 1609
+      }
+    ],
+    "century": "17th century",
+    "culture": "Flemish",
+    "imagepermissionlevel": 0,
+    "id": 55128,
+    "classification": "Drawings",
+    "title": "Topographical View of Unidentified Belgian Town",
+    "people": [
+      {
+        "role": "Artist",
+        "birthplace": "Brussels",
+        "gender": "unknown",
+        "displaydate": "1632 - 1690",
+        "prefix": null,
+        "culture": "Dutch",
+        "displayname": "Adam Frans van der Meulen",
+        "alphasort": "Meulen, Adam Frans van der",
+        "name": "Adam Frans van der Meulen",
+        "personid": 23689,
+        "deathplace": "Paris",
+        "displayorder": 1
+      }
+    ],
+    "seeAlso": [
+      {
+        "id": "https://iiif.harvardartmuseums.org/manifests/object/55128",
+        "type": "IIIF Manifest",
+        "format": "application/json",
+        "profile": "http://iiif.io/api/presentation/2/context.json"
+      }
+    ]
+  },
+  {
+    "images": [
+      {
+        "date": "2019-08-29",
+        "copyright": "President and Fellows of Harvard College",
+        "imageid": 502806,
+        "idsid": 476991295,
+        "format": "image/jpeg",
+        "description": null,
+        "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CC 2018 (Macintosh);",
+        "renditionnumber": "771312",
+        "displayorder": 1,
+        "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:771312",
+        "alttext": null,
+        "width": 1705,
+        "publiccaption": null,
+        "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/476991295",
+        "height": 2550
+      }
+    ],
+    "century": "17th century",
+    "culture": "Dutch",
+    "imagepermissionlevel": 0,
+    "id": 77091,
+    "classification": "Drawings",
+    "title": "A Hawk",
+    "people": [
+      {
+        "role": "Artist",
+        "birthplace": "Gorinchem",
+        "gender": "male",
+        "displaydate": "1607 - 1681",
+        "prefix": null,
+        "culture": "Dutch",
+        "displayname": "Cornelis Saftleven",
+        "alphasort": "Saftleven, Cornelis",
+        "name": "Cornelis Saftleven",
+        "personid": 28453,
+        "deathplace": "Rotterdam, Netherlands",
+        "displayorder": 1
+      }
+    ],
+    "seeAlso": [
+      {
+        "id": "https://iiif.harvardartmuseums.org/manifests/object/77091",
+        "type": "IIIF Manifest",
+        "format": "application/json",
+        "profile": "http://iiif.io/api/presentation/2/context.json"
+      }
+    ]
+  },
+  {
+    "images": [],
+    "century": "20th century",
+    "culture": "German",
+    "imagepermissionlevel": 1,
+    "id": 77209,
+    "classification": "Paintings",
+    "title": "Lower Rhenish",
+    "people": [
+      {
+        "role": "Artist",
+        "birthplace": "Liberec, Bohemia (now Czech Republic)",
+        "gender": "male",
+        "displaydate": "born 1941",
+        "prefix": null,
+        "culture": "German",
+        "displayname": "Markus Lüpertz",
+        "alphasort": "Lüpertz, Markus",
+        "name": "Markus Lüpertz",
+        "personid": 27298,
+        "deathplace": null,
+        "displayorder": 1
+      }
+    ],
+    "seeAlso": [
+      {
+        "id": "https://iiif.harvardartmuseums.org/manifests/object/77209",
+        "type": "IIIF Manifest",
+        "format": "application/json",
+        "profile": "http://iiif.io/api/presentation/2/context.json"
+      }
+    ]
+  }
+]
